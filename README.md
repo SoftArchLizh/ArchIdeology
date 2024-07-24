@@ -16,9 +16,10 @@
 
 # 3、经典的架构图
 
-https://github.com/SoftArchLizh/ArchIdeology/blob/main/ArchPractice/ArhPic.md
+    https://github.com/SoftArchLizh/ArchIdeology/blob/main/ArchPractice/ArhPic.md
 
-
+## 3.1 逻辑架构图
+    https://github.com/SoftArchLizh/ArchIdeology/blob/main/ArchPractice/img.png
 
 
 # 4、TOGAF架构图
