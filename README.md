@@ -14,6 +14,12 @@
 # 分支管理
   master 分支 ，长期维护分支，其它都是支线 ；
 
+# 架构图
+
+## 逻辑架构图
+
+https://github.com/SoftArchLizh/ArchIdeology/blob/main/ArchPractice/ArhPic.md
+
 
 
 
