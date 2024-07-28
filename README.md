@@ -1,6 +1,6 @@
 # Soft Arch
 
-```markdown
+```html
 <p align="center">
 	<br/>
   <a href="https://icyfenix.cn" target="_blank">
