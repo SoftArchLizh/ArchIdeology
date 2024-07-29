@@ -4,7 +4,7 @@
 
 ### 这是什么？
 
-**架构图模板介绍**
+架构图模板介绍
 
 本模板是一份融合了当前流行的4A架构理念与TOGAF（The Open Group Architecture Framework）架构框架的架构图模板。它汇集了我们团队凭借多年经验自主创造的成果，旨在提供一个全面的架构设计参考。模板内容包括：
 
@@ -29,29 +29,24 @@
 
 根据“使用”的所指含义的不同，笔者列举以下几种情况：
 
-* **在线阅读**：本文档在线阅读地址为：[https://icyfenix.cn](https://icyfenix.cn)。\
-  网站由 [GitHub Pages](https://pages.github.com/) 提供网站存储空间；由 [Travis-CI](https://travis-ci.com/fenixsoft/awesome-fenix) 提供的持续集成服务实时把 Git 仓库的 Markdown 文档编译同步至网站，并推送至 CDN，提供国内的访问加速。
-* **离线阅读**：
-  *   部署离线站点：文档基于 [Vuepress](https://vuepress.vuejs.org/zh/) 构建，如你希望在企业内部搭建文档站点，请使用如下命令：
+* **在线阅读**：本文档在线阅读地址为：[https://github.com/SoftArchLizh/ArchIdeology/tree/main](https://github.com/SoftArchLizh/ArchIdeology/tree/main)。\
+  网站由 [GitHub Pages](https://pages.github.com/) 提供网站存储空间；&#x20;
+*   **离线阅读**：
 
-      ```bash
-      # 克隆获取源码
-      $ git clone https://github.com/fenixsoft/awesome-fenix.git && cd awesome-fenix
+    *   下载到本地：请使用如下命令：
 
-      # 安装工程依赖
-      $ npm install
+        ```bash
+        # 克隆获取源码
+        $ git clone  https://github.com/SoftArchLizh/ArchIdeology.git  && cd awesome-fenix
 
-      # 运行网站，地址默认为http://localhost:8080
-      $ npm run dev
-      ```
-  *   生成PDF文件：工程源码中已带有基于 [vuepress-plugin-export](https://github.com/ulivz/vuepress-plugin-export) 改造（针对本文档定制过）的PDF导出插件，如你希望生成全文 PDF 文件，请在已进行上一步工程克隆和依赖安装的前提下使用如下命令：
+         
+        ```
+    * 打开项目查看：
 
-      ```bash
-      # 编译PDF，结果将输出在网站根目录
-      $ npm run export
-      ```
 
-      PDF 全文编译时间较长，在笔者机器上约耗时25分钟，在 Travis-CI 上约需要约8分钟，可以从在[这里下载](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/gh-pages/pdf/the-fenix-project.pdf)更新时由 Travis-CI 自动编译的PDF。PDF 中文字体采用阿里巴巴普惠字体渲染，此字体被允许免费使用与传播。
+
+
+
 * **二次演绎、传播和发行**：本文档中所有的内容，如引用其他资料，均在文档中明确列出资料来源，一切权利归属原作者。除此以外的所有内容，包括但不限于文字、图片、表格，等等，均属笔者原创，这些原创内容，笔者声明以[知识共享署名 4.0](http://creativecommons.org/licenses/by/4.0/)发行，只要遵循许可协议条款中**署名**、**非商业性使用**、**相同方式共享**的条件，你可以在任何地方、以任何形式、向任何人使用、修改、演绎、传播本文档中任何部分的内容。详细可见本文档的“协议”一节。
 * **运行技术演示工程**：笔者专门在探索起步中的“[技术演示工程](https://icyfenix.cn/exploration/projects/)”详细介绍了配套工程的使用方法，如果你对构建运行环境也有所疑问，在附录中的“[环境依赖](https://icyfenix.cn/appendix/deployment-env-setup/)”部分也已包括了详细的环境搭建步骤。此外，这些配套工程也均有使用 Travis-CI 提供的持续集成服务，自动输出到 Docker 镜像库，如果你只关心运行效果，或只想了解部分运维方面的知识，可以直接运行 Docker 镜像而无需关心代码部分。你可以通过下面所列的地址，查看到本文档所有工程代码和在线演示的地址：
   * 文档工程：
