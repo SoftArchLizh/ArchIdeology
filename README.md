@@ -31,19 +31,36 @@
 
 * **在线阅读**：本文档在线阅读地址为：[https://github.com/SoftArchLizh/ArchIdeology/tree/main](https://github.com/SoftArchLizh/ArchIdeology/tree/main)。\
   网站由 [GitHub Pages](https://pages.github.com/) 提供网站存储空间；&#x20;
+
+&#x20;     在线阅读地址： [https://softarchlizh.gitbook.io/softarchmain](https://softarchlizh.gitbook.io/softarchmain)
+
+
+
 *   **离线阅读**：
 
     *   下载到本地：请使用如下命令：
 
         ```bash
         # 克隆获取源码
-        $ git clone  https://github.com/SoftArchLizh/ArchIdeology.git  && cd awesome-fenix
+        $ git clone  https://github.com/SoftArchLizh/ArchIdeology.git  
 
          
         ```
     * 打开项目查看：
 
+    &#x20;        &#x20;
 
+```bash
+
+ 1 打开draw.io 或  https://app.diagrams.net/
+ 2 打开 原文件 查看 
+
+
+```
+
+* &#x20;&#x20;
+
+&#x20;                &#x20;
 
 
 
