@@ -70,20 +70,14 @@
 
 
 
-* **二次演绎、传播和发行**：本文档中所有的内容，如引用其他资料，均在文档中明确列出资料来源，一切权利归属原作者。除此以外的所有内容，包括但不限于文字、图片、表格，等等，均属笔者原创，这些原创内容，笔者声明以[知识共享署名 4.0](http://creativecommons.org/licenses/by/4.0/)发行，只要遵循许可协议条款中**署名**、**非商业性使用**、**相同方式共享**的条件，你可以在任何地方、以任何形式、向任何人使用、修改、演绎、传播本文档中任何部分的内容。详细可见本文档的“协议”一节。
-* **运行技术演示工程**：笔者专门在探索起步中的“[技术演示工程](https://icyfenix.cn/exploration/projects/)”详细介绍了配套工程的使用方法，如果你对构建运行环境也有所疑问，在附录中的“[环境依赖](https://icyfenix.cn/appendix/deployment-env-setup/)”部分也已包括了详细的环境搭建步骤。此外，这些配套工程也均有使用 Travis-CI 提供的持续集成服务，自动输出到 Docker 镜像库，如果你只关心运行效果，或只想了解部分运维方面的知识，可以直接运行 Docker 镜像而无需关心代码部分。你可以通过下面所列的地址，查看到本文档所有工程代码和在线演示的地址：
+* **传播和发行**：本文档中所有的内容，如引用其他资料，均在文档中明确列出资料来源，一切权利归属原作者。除此以外的所有内容，包括但不限于文字、图片、表格，等等，均属笔者原创，这些原创内容，笔者声明以[知识共享署名 4.0](http://creativecommons.org/licenses/by/4.0/)发行，只要遵循许可协议条款中**署名**、**非商业性使用**、**相同方式共享**的条件，你可以在任何地方、以任何形式、向任何人使用、修改、演绎、传播本文档中任何部分的内容。详细可见本文档的“协议”一节。
+* **分类查看**：你可以通过下面所列的地址，查看到本文档所有工程代码和在线演示的地址：
   * 文档工程：
-    * 凤凰架构：[https://icyfenix.cn](https://icyfenix.cn)
-    * Vuepress 支持的文档工程：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
+    *
+    *
   * 前端工程：
-    * Mock.js 支持的纯前端演示：[https://bookstore.icyfenix.cn](https://bookstore.icyfenix.cn)
-    * Vue.js 2实现前端工程：[https://github.com/fenixsoft/fenix-bookstore-frontend](https://github.com/fenixsoft/fenix-bookstore-frontend)
-  * 后端工程：
-    * Spring Boot 实现单体架构：[https://github.com/fenixsoft/monolithic\_arch\_springboot](https://github.com/fenixsoft/monolithic\_arch\_springboot)
-    * Spring Cloud 实现微服务架构：[https://github.com/fenixsoft/microservice\_arch\_springcloud](https://github.com/fenixsoft/microservice\_arch\_springcloud)
-    * Kubernetes 为基础设施的微服务架构：[https://github.com/fenixsoft/microservice\_arch\_kubernetes](https://github.com/fenixsoft/microservice\_arch\_kubernetes)
-    * Istio 为基础设施的服务网格架构：[https://github.com/fenixsoft/servicemesh\_arch\_istio](https://github.com/fenixsoft/servicemesh\_arch\_istio)
-    * AWS Lambda 为基础的无服务架构：[https://github.com/fenixsoft/serverless\_arch\_awslambda](https://github.com/fenixsoft/serverless\_arch\_awslambda)
+    * Mock.js 支持的纯前
+    *
 
 ### 协议
 
