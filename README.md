@@ -1,6 +1,10 @@
 # ArchMain
 
-[![Document License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/DocLicense-CC-red.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/License-Apache.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Document License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/DocLicense-CC-red.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+```
+ 
+```
 
 ### 这是什么？
 
