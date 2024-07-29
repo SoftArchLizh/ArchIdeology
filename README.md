@@ -48,17 +48,23 @@
         ```
     * 打开项目查看：
 
-    &#x20;        &#x20;
+    &#x20;         1 打开draw.io 或  https://app.diagrams.net  ,  选择原文件
 
-```bash
+&#x20;                                    &#x20;
 
- 1 打开draw.io 或  https://app.diagrams.net/
- 2 打开 原文件 查看 
+<div align="center">
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+&#x20;                  2   查看  架构原文件&#x20;
+
+&#x20;                        &#x20;
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
-```
-
-* &#x20;&#x20;
 
 &#x20;                &#x20;
 
