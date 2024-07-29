@@ -12,7 +12,7 @@
 
 ## 这是什么？
 
-这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。文章《<a href="https://icyfenix.cn/introduction/about-the-fenix-project.html">什么是“凤凰架构”</a>》详细阐述了这部文档的主旨、目标与名字的来由，文章《<a href="https://icyfenix.cn/exploration/guide/quick-start.html">如何开始</a>》简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
+这是一部以“如何构建一套可靠的分布式大型软件系统”为叙事主线的开源文档，是一幅帮助开发人员整理现代软件架构各条分支中繁多知识点的技能地图。简述了文档每章讨论的主要话题与内容详略分布，供阅前参考。
 
 笔者出于以下目的，撰写这部文档：
 
@@ -23,7 +23,7 @@
 除文档部分外，笔者同时还建立了若干配套的代码工程，这是针对不同架构、技术方案（如单体架构、微服务、服务网格、无服务架构，等等）的演示程序。它们既是文档中所述知识的实践示例，亦可作为实际项目新创建时的可参考引用的基础代码。
 
 <p align="center" style="display:none" tips="view only in GitHub README.md">
-<img src="https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/sshot-index.png" >
+ 
 </p>
 
 ## 如何使用？
@@ -87,5 +87,5 @@
 
 <div style="padding-top: 20px" class="not-print">
 	<h2 id="备案">备案</h2>
-	<p>网站备案信息：<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备18088957号</a></p>
+	<p>网站备案信息：<a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备 </a></p>
 </div>
