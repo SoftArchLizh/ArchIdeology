@@ -1,6 +1,6 @@
 # ArchMain
 
-[![License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/License-Apache.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Document License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/DocLicense-CC-red.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Document License](https://raw.githubusercontent.com/fenixsoft/awesome-fenix/master/.vuepress/public/images/DocLicense-CC-red.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ### 这是什么？
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,9 +62,7 @@
 
 &#x20;                        &#x20;
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 &#x20;                &#x20;
 
