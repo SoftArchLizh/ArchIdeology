@@ -42,19 +42,26 @@
 
 *   **离线阅读**：
 
-    *   下载到本地：请使用如下命令：
 
-        ```bash
-        # 克隆获取源码
-        $ git clone  https://github.com/SoftArchLizh/ArchIdeology.git  
 
-         
-        ```
-    * 打开项目查看：
+    * 下载到本地：请使用如下命令：
 
-    &#x20;         1 打开draw.io 或  https://app.diagrams.net  ,  选择原文件
 
-&#x20;                                    &#x20;
+
+    ```bash
+    # 克隆获取源码
+    $ git clone  https://github.com/SoftArchLizh/ArchIdeology.git  
+
+     
+    ```
+
+
+
+    *   打开项目查看：
+
+        &#x20;
+
+&#x20;                        1、   打开draw.io 或  https://app.diagrams.net  ,  选择原文件   &#x20;
 
 <div align="center">
 
@@ -62,7 +69,9 @@
 
 </div>
 
-&#x20;                  2   查看  架构原文件 ， 调整0731
+&#x20;                 &#x20;
+
+&#x20;                    2、查看  架构原文件 ， 调整0731
 
 &#x20;                        &#x20;
 
