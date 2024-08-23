@@ -17,6 +17,8 @@
 * **数据架构图**：阐释数据管理和流动的结构。
 * **部署架构图**：描绘系统在物理环境中的部署情况。
 
+{% embed url="https://app.gitbook.com/o/lIe4dpnpc38COz3pWpee/s/NkKp3X7h2KyAPrZ6ORTJ/~/changes/13/jia-gou-tu-mu-ban" %}
+
 此外，还包括了遵循TOGAF标准的架构图，这些图表不仅可以在线查看，还提供原文件下载功能。我们鼓励并支持您将这些架构图直接应用于实际工作中，以提升工作效率。
 
 **文档撰写目的**
