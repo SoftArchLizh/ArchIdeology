@@ -3,6 +3,7 @@
 * [ArchMain](README.md)
 * [分布式技术架构](fen-bu-shi-ji-shu-jia-gou/README.md)
   * [数据在各处被缓存](fen-bu-shi-ji-shu-jia-gou/shu-ju-zai-ge-chu-bei-huan-cun.md)
+  * [为什么 Redis 这么快](fen-bu-shi-ji-shu-jia-gou/wei-shen-me-redis-zhe-me-kuai.md)
   * [CAP 定理](fen-bu-shi-ji-shu-jia-gou/cap-ding-li.md)
 * [技术精粹](ji-shu-jing-cui/README.md)
   * [架构图模板](ji-shu-jing-cui/jia-gou-tu-mu-ban.md)
