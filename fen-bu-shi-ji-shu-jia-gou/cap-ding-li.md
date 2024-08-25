@@ -2,7 +2,7 @@
 
 CAP 定理是计算机科学中最著名的理论之一，但许多开发者可能对此有不同的理解。让我们来详细了解CAP定理及其令人困惑之处。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 CAP 定理明确指出，一个分布式系统无法同时满足以下三种保证中的两种以上。
 
