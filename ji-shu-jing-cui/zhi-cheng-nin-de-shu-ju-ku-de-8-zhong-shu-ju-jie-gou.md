@@ -7,6 +7,11 @@
 以下是一些最常用的用于数据索引的数据结构：
 
 * 跳表：一种常见的内存索引类型。在Redis中使用
+
+&#x20;       &#x20;
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 * 哈希索引：一种非常常见的“映射”数据结构（或“集合”）的实现
 * SSTable：不可变的磁盘“映射”实现
 * LSM树：跳表 + SSTable。高写入吞吐量
